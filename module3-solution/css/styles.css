@@ -51,6 +51,11 @@ body{
 #nav-list a:hover {
 	background-color:#e7e7e7;
 }
-#chickenhead p{
+.details{
+  background-color: #8D6581;
 	margin: 20px 20px 10px;
+	color: black;
+	font-family: 'Lora', serif  italic;
+	font-weight: normal;
 }
+
